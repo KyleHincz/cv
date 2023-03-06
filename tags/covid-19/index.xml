@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Covid-19 on Kyle Hincz Portfolio Website</title>
+    <link>https://kylehincz.github.io/cv/tags/covid-19/</link>
+    <description>Recent content in Covid-19 on Kyle Hincz Portfolio Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://kylehincz.github.io/cv/tags/covid-19/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Influence of COVID-19 confinement on students&#39; performance in higher education</title>
+      <link>https://kylehincz.github.io/cv/publications/alldaydevops/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kylehincz.github.io/cv/publications/alldaydevops/</guid>
+      <description>This study analyses the effects of COVID-19 confinement on the autonomous learning performance of students in higher education. Using a field experiment with 458 students from three different subjects at Universidad Autónoma de Madrid (Spain), we study the differences in assessments by dividing students into two groups. The first group (control) corresponds to academic years 2017/2018 and 2018/2019. The second group (experimental) corresponds to students from 2019/2020, which is the group of students that had their face-to-face activities interrupted because of the confinement.</description>
+    </item>
+    
+  </channel>
+</rss>

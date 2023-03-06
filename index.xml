@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio Website on Kyle Hincz Portfolio Website</title>
+    <link>https://kylehincz.github.io/cv/</link>
+    <description>Recent content in Portfolio Website on Kyle Hincz Portfolio Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate><atom:link href="https://kylehincz.github.io/cv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Atlassian Deployment Triggers</title>
+      <link>https://kylehincz.github.io/cv/projects/contributions/deploy-triggers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kylehincz.github.io/cv/projects/contributions/deploy-triggers/</guid>
+      <description>Addressed pretty significant page load performance issue founde in larger deployments. Eliminates uses of intensive backend query, replacing it with an asynchronous API call against a lucene index. This change reduces page load from from 2+ minutes to nearly instant, with an incredibly responsive UI.</description>
+    </item>
+    
+    <item>
+      <title>Influence of COVID-19 confinement on students&#39; performance in higher education</title>
+      <link>https://kylehincz.github.io/cv/publications/alldaydevops/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kylehincz.github.io/cv/publications/alldaydevops/</guid>
+      <description>This study analyses the effects of COVID-19 confinement on the autonomous learning performance of students in higher education. Using a field experiment with 458 students from three different subjects at Universidad Autónoma de Madrid (Spain), we study the differences in assessments by dividing students into two groups. The first group (control) corresponds to academic years 2017/2018 and 2018/2019. The second group (experimental) corresponds to students from 2019/2020, which is the group of students that had their face-to-face activities interrupted because of the confinement.</description>
+    </item>
+    
+    <item>
+      <title>Added Docker Build Status Badge to shields.io</title>
+      <link>https://kylehincz.github.io/cv/projects/contributions/shields-docker/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      
+      <guid>https://kylehincz.github.io/cv/projects/contributions/shields-docker/</guid>
+      <description>Shields.io is a massive library of badges that can be inserted into project README&amp;rsquo;s or websites displaying various statuses (code coverage, health, version, etc). Support for docker was missing the current build health, and was a pretty trivial addition.</description>
+    </item>
+    
+    <item>
+      <title>Schema.org Structured Data documentation fixes</title>
+      <link>https://kylehincz.github.io/cv/projects/contributions/schema-org/</link>
+      <pubDate>Tue, 07 Jan 2020 17:08:21 +0000</pubDate>
+      
+      <guid>https://kylehincz.github.io/cv/projects/contributions/schema-org/</guid>
+      <description>While adding Structured Data to a client&amp;rsquo;s website I found some example JSON that was invalid. Simple contribution to cleanup the user documentation providing syntactically valid JSON documents.</description>
+    </item>
+    
+    <item>
+      <title>UK Road Accidents Data Analysis &amp; Casualty Prediction</title>
+      <link>https://kylehincz.github.io/cv/projects/creations/uk-accident/</link>
+      <pubDate>Fri, 11 Nov 2022 12:41:05 -0500</pubDate>
+      
+      <guid>https://kylehincz.github.io/cv/projects/creations/uk-accident/</guid>
+      <description>&amp;ldquo;This project analyses all 2021 vehicle accidents as reported by the UK Department for Transport. The aim of the project is to understand the nature of these accidents and their underlying causes. I apply and compare various machine learning and statistical methods to extract trends and useful insights as well as predict if casualties occurred in the accident&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Forcing Visits to use SSL</title>
+      <link>https://kylehincz.github.io/cv/blog/force-ssl/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      
+      <guid>https://kylehincz.github.io/cv/blog/force-ssl/</guid>
+      <description>Intro Doesn&amp;rsquo;t matter whether it&amp;rsquo;s a CakePHP app for a client, your own personal CMS, or any other web based application. If your passing around passwords or other sensitive info you should really implement SSL. SSL provides 2 main perks to your visitors.
+First it encrypts all communication that flies across the web. This prevents curious or devious billies from getting your secrets. Secondly it ensures to the user that your server is in fact who it claims, and not a nasty &amp;lsquo;man in the middle&amp;quot; attack.</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>https://kylehincz.github.io/cv/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kylehincz.github.io/cv/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml
+[outputs] home = [&amp;#34;HTML&amp;#34;, &amp;#34;JSON&amp;#34;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
+    </item>
+    
+  </channel>
+</rss>

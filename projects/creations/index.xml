@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Creations on Kyle Hincz Portfolio Website</title>
+    <link>https://kylehincz.github.io/cv/projects/creations/</link>
+    <description>Recent content in Creations on Kyle Hincz Portfolio Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 15:00:28 +0000</lastBuildDate><atom:link href="https://kylehincz.github.io/cv/projects/creations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UK Road Accidents Data Analysis &amp; Casualty Prediction</title>
+      <link>https://kylehincz.github.io/cv/projects/creations/uk-accident/</link>
+      <pubDate>Fri, 11 Nov 2022 12:41:05 -0500</pubDate>
+      
+      <guid>https://kylehincz.github.io/cv/projects/creations/uk-accident/</guid>
+      <description>&amp;ldquo;This project analyses all 2021 vehicle accidents as reported by the UK Department for Transport. The aim of the project is to understand the nature of these accidents and their underlying causes. I apply and compare various machine learning and statistical methods to extract trends and useful insights as well as predict if casualties occurred in the accident&amp;rdquo;</description>
+    </item>
+    
+  </channel>
+</rss>
